@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'AeonFree Blog',
-      description: 'Free web development and design.',
+      description: 'Everything web design and development.',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
