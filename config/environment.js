@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'AeonFree Blog',
+      description: 'Free web development and design.',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Aeonfree Blog',
         route: 'page',
-        id: 'chris-manson'
+        id: 'About'
       }]
     },
 
